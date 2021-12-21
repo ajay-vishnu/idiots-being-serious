@@ -1,0 +1,141 @@
+@font-face {
+    font-family: 'Rounded Elegance';
+    src: url('fonts/rounded_elegance/rounded_elegance.eot'); /* IE9 Compat Modes */
+    src: url('fonts/rounded_elegance/rounded_elegance.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/rounded_elegance/rounded_elegance.woff') format('woff'), /* Modern Browsers */
+         url('fonts/rounded_elegance/rounded_elegance.ttf')  format('truetype'), /* Safari, Android, iOS */
+         url('fonts/rounded_elegance/rounded_elegance.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Gontserrat Regular';
+    src: url('fonts/gontserrat/Gontserrat-Regular.eot'); /* IE9 Compat Modes */
+    src: url('fonts/gontserrat/Gontserrat-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/gontserrat/Gontserrat-Regular.woff') format('woff'), /* Modern Browsers */
+         url('fonts/gontserrat/Gontserrat-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+         url('fonts/gontserrat/Gontserrat-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Louis George Caf';
+    src: url('fonts/louis_george_caf/Louis George Cafe.eot'); /* IE9 Compat Modes */
+    src: url('fonts/louis_george_caf/Louis George Cafe.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('fonts/louis_george_caf/Louis George Cafe.woff') format('woff'), /* Modern Browsers */
+         url('fonts/louis_george_caf/Louis George Cafe.ttf')  format('truetype'), /* Safari, Android, iOS */
+         url('fonts/louis_george_caf/Louis George Cafe.svg#svgFontName') format('svg'); /* Legacy iOS */
+}
+
+.main-header    {
+    background-color: #191919;
+    margin: -10px;
+    margin-top: -20px;
+}
+
+p  {
+    text-align: left;
+    font-family: "Louis George Caf";
+}
+
+#company-image  {
+    text-align: center;
+}
+
+#company-image img {
+    margin-top: 6.5%;
+    width: 15%;
+    border-radius: 10%;
+}
+
+.contacts   {
+    display: inline-block;
+    font-family: "Louis George Caf";
+    margin: 10px;
+    color: #ffffff;
+}
+
+.contacts a:link {
+    color: #ffffff;
+    background-color: transparent;
+    text-decoration: none;
+    font-weight: 200;
+}
+
+.search, .search > ::placeholder {
+    font-family: "Louis George Caf";
+    margin-top: 1%;
+}
+
+#search-bar  {
+    font-family: "Louis George Caf";
+    margin-top: 1%;
+}
+
+#author {
+    font-family: "Louis George Caf";
+}
+
+#author img {
+    width: 5.32%;
+    border-radius: 50%;
+}
+
+.AppleEvent {
+    margin: 10%;
+    padding: 10%;
+    border: 1px solid #000000;
+}
+
+#heading    {
+    font-family: "Gontserrat Regular";
+    font-size: 30px;
+    font-weight: 700;
+}
+
+#apple-image img    {
+    object-position: center;
+    width: 67%;
+}
+
+#apple-watch-image-2 img    {
+    width: 740px;
+    height: 416px;
+}
+
+#apple-watch-image-3 img    {
+    width: 740px;
+    height: 416px;
+}
+
+#parks-and-recreation-image img {
+    width: 414px;
+    height: 311.188px;
+}
+
+#apple-watch-image-1 img   {
+    height: 240px;
+    margin: 1%;
+}
+
+#idiots-being-serious-reference {
+    font-family: "Louis George Caf";
+    text-align: left;
+}
+
+#apple-reference    {
+    font-family: "Louis George Caf";
+    text-align: left;
+}
+
+#parks-and-recreation-reference {
+    font-family: "Louis George Caf";
+    text-align: left;
+}
+
+#company-name    {
+    text-align: center;
+    color: #ffffff;
+    font-family: 'Rounded Elegance';
+    font-size: 40px;
+    font-weight: 1000;
+    margin-top: 20px;
+}
